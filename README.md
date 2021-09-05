@@ -12,5 +12,7 @@ Love cat🐈 and RPG⚔
 
 ### 🧲 Contact Me
 <a href="mailto:@gmail.com">
-![Gmail Badge](https://img.shields.io/badge/-cheryleduart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheryleduart@gmail.com)
+    <img 
+        src="https://img.shields.io/badge/-cheryleduart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
