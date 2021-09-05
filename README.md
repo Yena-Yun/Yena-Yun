@@ -1,6 +1,6 @@
 
 ## 🌀 Cheryl Yena Yun 
-Love Cat🐈 and RPG⚔
+Love cat🐈 and RPG⚔
 
 ### 🧶 Tech
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
