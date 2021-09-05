@@ -8,4 +8,4 @@ Love cat🐈 and RPG⚔
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
 
 ### 🧲 Contact Me
-![Gmail Badge](https://img.shields.io/badge/-cheryleduart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-cheryleduart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheryleduart@gmail.com)
