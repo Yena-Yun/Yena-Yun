@@ -11,7 +11,7 @@ Would-be Frontend Engineer
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 ### 🧲 Contact
-<a href="mailto:@gmail.com">
+<a href="mailto:cheryleduart@gmail.com">
     <img 
         src="https://img.shields.io/badge/-cheryleduart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
