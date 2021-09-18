@@ -11,7 +11,7 @@ Would-be Frontend Engineer
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 ### Portfolio Link
-[포트폴리오 링크]("https://yena-yun.github.io/PORTFOLIO/")
+<"https://yena-yun.github.io/PORTFOLIO/">
 (Project 섹션 수정중)
 
 ### 🧲 Contact
