@@ -1,6 +1,6 @@
 
 ## 🌀 Cheryl Yena Yun 
-Would-be Frontend Engineer
+love to see paintings, go to new places, and play RPG games!
 
 ### 🧶 Tech
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
