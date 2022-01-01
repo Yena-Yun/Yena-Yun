@@ -1,6 +1,5 @@
 
 ## 🌀 Cheryl Yena Yun 
-love to see paintings, go to new places, and play RPGs!
 
 ### 🧶 Tech
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
