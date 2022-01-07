@@ -11,13 +11,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 ### 🧀 Blog
-노션: <a href="https://www.notion.so/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">
-    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/vJla3OzAk0.png" width="30" />
+<a href="https://www.notion.so/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">
+    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/vJla3OzAk0.png" width="20" />
 </a>
-<br/>
-
+&nbsp;
 <a href="https://velog.io/@yena1025">
-    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/YTds18N2It.png" width="30" />
+    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/YTds18N2It.png" width="20" />
 </a>
 
 ### 🧲 Contact
