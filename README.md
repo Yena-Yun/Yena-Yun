@@ -10,6 +10,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
+### 🧀 Blog
+<a href="https://www.notion.so/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">
+    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/vJla3OzAk0.png" width="50" />
+</a>
+<a href="https://velog.io/@yena1025">
+    <img src="https://i.esdrop.com/d/KwrGH1p1Zl/YTds18N2It.png" width="50" />
+</a>
+
 ### 🧲 Contact
 <a href="mailto:cheryleduart@gmail.com">
     <img 
