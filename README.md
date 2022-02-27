@@ -22,7 +22,7 @@
     <a href='https://velog.io/@yena1025'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
     
-<br /><br />
+<br />
 
     
 <p align='center'>
