@@ -1,6 +1,6 @@
 <div align="center">
     
-# 🐱‍👓 Cheryl Yena Yun 
+# 🐱‍💻 Cheryl Yena Yun 
 
 ### 🧶 Tech Stack
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
