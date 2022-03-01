@@ -22,11 +22,3 @@
     <a href='https://velog.io/@yena1025'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
     
-<br />
-
-    
-<p align='center'>
-  <a href="mailto:cheryleduart@gmail.com"><img src="https://github-readme-stats.vercel.app/api?username=Yena-Yun&theme=dracula"/>
-  <a href='https://velog.io/@yena1025'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yena-Yun&layout=compact&theme=dracula"/></a>
-</p>
-    
