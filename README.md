@@ -18,6 +18,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"
     />
 </a>
-    <a href='https://velog.io/@yena1025'><img src="https://img.shields.io/badge/velog-34e0a1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
 
     
