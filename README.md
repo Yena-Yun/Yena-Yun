@@ -23,7 +23,7 @@
                                                                                                                                           
                                                                                                                                           
  <a href='https://www.notion.so/cheryl-yena-yun/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a'>
-    <img src="https://img.shields.io/badge/notion-faf8b9?style=flat&logo=Notion&logoColor=black"/>
+    <img src="https://img.shields.io/badge/notion-faf8b9?style=flat&logo=Notion&logoColor=white"/>
  </a>
 </p>
 
