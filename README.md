@@ -5,7 +5,7 @@
 
 <h4 align="center">매일 다음 날 Todo 정리</h4>
 <h4 align="center">일요일에 다음 주 목표 계획</h4>  
-<h4 align="center">한 달 단위로 장기 목표 달성</h4> 
+<h4 align="center">한 달 단위로 중간 목표 달성</h4> 
     
 <br/>
     
