@@ -9,7 +9,7 @@
     
 <br/>
     
-<h1 align="center"> 🥑 Skills</h1>
+<h1 align="center"> 🍀 Skills</h1>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
     ![Next.js](https://img.shields.io/badge/-Next.js-c96196?&logo=Next.js&logoColor=white)
