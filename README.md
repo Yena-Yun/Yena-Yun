@@ -9,7 +9,7 @@
     
 <br/>
     
-<h1 align="center"> 🛍 Skills</h1>
+<h1 align="center"> 🥑 Skills</h1>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
     ![Next.js](https://img.shields.io/badge/-Next.js-c96196?&logo=Next.js&logoColor=white)
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h2 align="center"> 💌 Contact</h2>
+<h1 align="center"> 💌 Contact</h1>
 <p align="center>
 <a href="mailto:cheryleduart@gmail.com">
     <img 
