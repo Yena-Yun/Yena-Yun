@@ -3,10 +3,8 @@
     
 <h1 align="center">🌸 My Routine</h1>
 
-<h4 align="center">매일 다음 날 Todo 정리</h4>
-<h4 align="center">일요일에 다음 주 달성할 week 목표 계획</h4>  
-<h4 align="center">2주 단위로 중간 목표 달성</h4> 
-    
+<h4 align="center">매일 다음 날 Todo 정리 (<a href="https://www.notion.so/cheryl-yena-yun/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">Notion</a>)</h4>
+<h4 align="center">2주 단위로 중간 목표 달성 (<a href="https://cherylgosprint.atlassian.net/jira/software/projects/C2G/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiZmVjYWMwM2UwZWJkNGZjM2FkZTlmNTY1ZjNjMjVjZjQiLCJwIjoiaiJ9">Jira</a>)
 <br/>
     
 <h1 align="center"> 🍀 Skills</h1>
