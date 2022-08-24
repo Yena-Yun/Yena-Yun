@@ -3,7 +3,8 @@
     
 <h1 align="center">🌸 My Routine</h1>
 
-<h4 align="center">매일 TIL 기록 (<a href="https://www.notion.so/cheryl-yena-yun/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">Notion</a>)</h4>
+<h4 align="center">매일 TIL 기록하기 (<a href="https://www.notion.so/cheryl-yena-yun/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a">Notion</a>)</h4>
+<h4 align="center">운동하기</h4>
 
 <br/>
     
