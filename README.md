@@ -5,11 +5,11 @@
 
 <h4 align="center">매일 TIL 기록하기 (<a href='https://www.notion.so/cheryl-yena-yun/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a'>Notion</a>)</h4>
 
-<h4 align="center">개발 관련 글 쓰기 (<a href='https://velog.io/@yena1025'>Velog</a>)</h4>
+<h4 align="center">개발 관련 글 작성 (<a href='https://velog.io/@yena1025'>Velog</a>)</h4>
 
 <h4 align="center">운동하기 🏋️‍♀️</h4>
 
-<h5 align="center">(Readme의 모든 파란 링크는 Ctrl을 누른 채로 클릭하시면 새 창에서 보기가 가능합니다👉)</h5>
+<h5 align="center">(Readme의 모든 파란 링크는 Ctrl을 누른 채로 클릭하면 새 창에서 보기 가능👉)</h5>
 
 <br/>
     
