@@ -9,6 +9,8 @@
 
 <h4 align="center">운동하기 🏋️‍♀️</h4>
 
+<h5 align="center">(모든 파란 링크는 Ctrl을 누른 채로 클릭하면 새 창에서 보실 수 있습니다!👉)</h5>
+
 <br/>
     
 <h1 align="center"> 🍀 Skills</h1>
