@@ -9,8 +9,6 @@
 
 <h4 align="center">운동하기 🏋️‍♀️</h4>
 
-<br/>
-    
 <h1 align="center"> 🍀 Skills</h1>
 
  ![Next.js](https://img.shields.io/badge/-Next.js-c96196?&logo=Next.js&logoColor=white)
