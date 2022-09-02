@@ -9,8 +9,6 @@
 
 <h4 align="center">운동하기 🏋️‍♀️</h4>
 
-<h5 align="center">(Readme의 모든 파란 링크는 Ctrl을 누른 채로 클릭하면 새 창에서 보기 가능👉)</h5>
-
 <br/>
     
 <h1 align="center"> 🍀 Skills</h1>
