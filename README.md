@@ -7,7 +7,7 @@
 
 <h4 align="center">개발 관련 글 작성 (<a href='https://velog.io/@yena1025'>Velog</a>)</h4>
 
-<h4 align="center">운동하기 🏋️‍♀️</h4>
+<h4 align="center">운동하기 🚶‍♀️</h4>
 
 <h1 align="center"> 🍀 Skills</h1>
 
