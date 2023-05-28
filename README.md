@@ -14,8 +14,7 @@
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
     ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
     
-    <h2 align="center">Contact</h2>
+ <h2 align="center">Contact</h2>
     
-    <span>cheryleduart@gmail.com</span>
-    
-    </div>
+ <span>cheryleduart@gmail.com</span>
+
