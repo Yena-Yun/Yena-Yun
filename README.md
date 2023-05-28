@@ -1,13 +1,6 @@
 <div align="center">
-    
-    
-<h2 align="center">🌸 My Routine</h2>
 
-<h4 align="center"><a href='https://cheryl-yena-yun.notion.site/Cheryl-Yun-s-Notion-39cbdc64741545449c715ea6fc2a753a' target='_blank'>매일 TIL 작성 🧙‍♀️</a></h4>
-
-<h4 align="center"><a href='https://velog.io/@yena1025' target='_blank'>기술 블로그 🏆</a></h4>
-
-<h2 align="center"> 🍀 Skills</h2>
+<h2 align="center">Skills</h2>
     
  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,3 +14,8 @@
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
     ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
     
+    <h2 align="center">Contact</h2>
+    
+    <span>cheryleduart@gmail.com</span>
+    
+    </div>
