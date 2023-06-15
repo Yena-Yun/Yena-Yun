@@ -19,7 +19,7 @@
 
 
 
- <h2 align="center">Contact</h2>
+ <h2 align="center">Contact 💌</h2>
     
  <span>cheryleduart@gmail.com</span>
 
